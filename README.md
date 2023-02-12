@@ -8,4 +8,4 @@ This is a program that reads numbers from the console until the user enters “q
 This is a set of implementations about picking the different number until the lotto game. It focuses on practicing nullability and data types.
 
 ### CoffeeMaker branch
-Create a coffeeMaker class to imitate the coffee maker, aiming to practicing class, properties and methods.
+Create a coffeeMaker class to imitate the coffee maker, aiming to practice class, properties and methods.
